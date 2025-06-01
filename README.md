@@ -16,6 +16,10 @@ The User App is designed to demonstrate a robust Flutter application with the fo
 
 The app uses the [DummyJSON API](https://dummyjson.com/) for user, post, and todo data, and employs clean architecture principles for maintainability and scalability.
 
+## Demo Video
+
+[Watch the demo video](assets/demo.mp4)
+
 ## Directory Structure
 
 ```
