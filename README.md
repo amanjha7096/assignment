@@ -2,6 +2,11 @@
 
 A Flutter application that fetches and displays user data, posts, and todos from a remote API, allows creating local posts, and supports light/dark theme switching with pull-to-refresh functionality. Built using the BLoC pattern for state management, the app provides a modern, responsive, and attractive UI.
 
+## Demo Video
+
+[Watch the demo video](https://drive.google.com/file/d/1oabfnc2ymRp6eOqU-s_MtLwN9BOGZGoJ/view?usp=sharing)
+
+
 ## Project Overview
 
 The User App is designed to demonstrate a robust Flutter application with the following features:
@@ -16,9 +21,6 @@ The User App is designed to demonstrate a robust Flutter application with the fo
 
 The app uses the [DummyJSON API](https://dummyjson.com/) for user, post, and todo data, and employs clean architecture principles for maintainability and scalability.
 
-## Demo Video
-
-[Watch the demo video](assets/demo.mp4)
 
 ## Directory Structure
 
